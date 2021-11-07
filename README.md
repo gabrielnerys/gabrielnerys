@@ -20,5 +20,3 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
   <img alt="css" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img alt="javascript" align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </section>
-
-![Snake animation](https://github.com/gabrielnerys/gabrielnerys/blob/output/github-contribution-grid-snake.svg)
