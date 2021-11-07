@@ -1,8 +1,9 @@
-## 👋 Olá! Bemvindo ao meu perfil do Github.
+## 👋 Olá! Bem-vindo ao meu perfil do Github.
 ### Meu nome é Gabriel Nery, mas pode me chamar de Gabe! :relaxed:
-<p>
+
 Estou em transição de carreira, saindo da área da Fotografia e design, migrando para o Desenvolvimento Web onde estou aprendendo com a ajuda da Trybe sobre HTML, CSS, JavaScript, React, Node, SQL, Git, Python, MongoDB e muito mais.
-</p>
+
+<br/>
 <section>
   <a href="https://github.com/gabrielnerys/github-readme-stats">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabrielnerys&show_icons=true&theme=dark" />
