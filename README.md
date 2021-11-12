@@ -4,20 +4,35 @@
 Estou em transição de carreira, saindo da área da Fotografia e design, migrando para o Desenvolvimento Web onde estou aprendendo com a ajuda da Trybe sobre HTML, CSS, JavaScript, React, Node, SQL, Git, Python, MongoDB e muito mais.
 
 <br/>
-<section>
-  <a href="https://github.com/gabrielnerys/github-readme-stats">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabrielnerys&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/gabrielnerys/convoychat">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&theme=dark"/>
-  </a>
-</section>
+<br>   
+<h3 align="left">Status GitHub:</h3>
+<br>
+   
+<div align="center">
+   <a href="https://github.com/gabrielnerys">
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielnerys&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
+<br>
+<br>
+   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnerys&show_icons=true&hide_border=true&theme=github_dark">
+   <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&theme=github_dark&hide_border=true">
+<br>
+<br>
+   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF"></a>
+   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=30&border_color=58A6FF"></a>
+</div>
+<br/>
+<br/>
+<br/>
+<div>
+   <h3 align="left">Linguagens e Ferramentas:</h3>
+   <section>
+    <img alt="git" align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+    <img alt="html" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+    <img alt="css" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+    <img alt="javascript" align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+   </section>
+</div>
 
-### Estou aprendendo / I'm Learning
-
-<section>
-  <img alt="git" align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-  <img alt="html" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img alt="css" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img alt="javascript" align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-</section>
+<br>
+<hr>
+<br>
