@@ -23,8 +23,8 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
 <br/>
 <br/>
 <br/>
-<div>
-   <h3 align="left">Linguagens e Ferramentas:</h3>
+<div align="center">
+   <h3>Linguagens e Ferramentas:</h3>
    <section>
     <img alt="git" align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
     <img alt="html" align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
