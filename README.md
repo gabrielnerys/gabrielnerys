@@ -18,8 +18,8 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&theme=github_dark&hide_border=true">
 <br>
 <br>
-   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=A9A9A9"></a>
-   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=30&border_color=A9A9A9"></a>
+   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=191970"></a>
+   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=30&border_color=191970"></a>
 </div>
 <br/>
 <br/>
