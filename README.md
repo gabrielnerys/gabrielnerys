@@ -7,7 +7,7 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
 <br>   
 <h3 align="left">Status GitHub:</h3>
 <br>
-  
+
 <div align="center">
    <a href="https://github.com/gabrielnerys">
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielnerys&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=A9A9A9&dates=A9A9A9&fire=A9A9A9&ring=A9A9A9">
