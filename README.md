@@ -33,7 +33,7 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
     <img alt="javascript" align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
    </section>
 </div>
-
+   
 <br>
 <hr>
 <br>
