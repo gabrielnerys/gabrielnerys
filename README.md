@@ -35,5 +35,4 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
 </div>
    
 <br>
-*/<hr>/*
 <br>
