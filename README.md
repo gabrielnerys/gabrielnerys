@@ -23,7 +23,7 @@ Estou em transição de carreira, saindo da área da Fotografia e design, migran
 </div>
 <br/>
 <br/>
-<br/>
+<br/>  
 <div align="center">
    <h3>Linguagens e Ferramentas:</h3>
    <section>
