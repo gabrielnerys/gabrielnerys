@@ -2,7 +2,7 @@
 ### Meu nome é Gabriel, mas pode me chamar de Gabe! :relaxed:
      
 Estou em transição de carreira, saindo da área da Fotografia e design, migrando para o Desenvolvimento Web onde estou aprendendo com a ajuda da Trybe sobre HTML, CSS, JavaScript, React, Node, SQL, Git, Python, MongoDB e muito mais.
-     
+       
 <br/>
 <br>
 <h3 align="left">Status GitHub:</h3>
