@@ -12,7 +12,7 @@
     <li>🔭 Atualmente estudando Desenvolvimento Fullstack na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
     <li>👾 Amo séries e livros de ficção e fantasia, e no meu tempo vago costumo jogar</li>
     <li>⚡ Fato aleatório: Team Cappuccino ☕ </li>
-    <li>⚡ Fato aleatório 2: Também sou fotógrafo profissional ☕ </li>
+    <li>⚡ Fato aleatório 2: Também sou fotógrafo profissional 📷 </li>
     <li>📫 Sinta-se a vontade para entrar em contato comigo por alguma das minhas redes sociais</li>
   </div>
 </div>
