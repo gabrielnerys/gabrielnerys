@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=A9A9A9&lines=Hii+%3AD;I'm+Gabriel%2C+but+call+me+Gabe.;Welcome+to+my+office!)](https://git.io/typing-svg)
 <div>
   <h4>Heeey! Como vai?</h4>
-  <p>Eu me chamo Gabriel, mas sinta-se a vontade caso queira me chamar de Gabe(ou Gabs). Sou Desenvolvedor Front-end Jr, atualmente morando no Rio de Janeiro, onde nasci. Sou apaixonado por tecnologia desde novo, e meu primeiro contato com programação foi através da famosa plataforma de prototipagem conhecida como Arduino, que tem sua linguagem baseada em C/C++. Hoje eu sinto orgulho por ver quealgo que começou como um interesse, hoje faz parte do meu dia-a-dia. 🚀</p>
+  <p>Eu me chamo Gabriel, mas sinta-se a vontade caso queira me chamar de Gabe(ou Gabs). Sou Desenvolvedor Front-end Jr, atualmente morando no Rio de       Janeiro, onde nasci. Sou apaixonado por tecnologia desde novo, e meu primeiro contato com programação foi através da famosa plataforma de prototipagem   conhecida como Arduino, que tem sua linguagem baseada em C/C++. Hoje eu sinto orgulho por ver quealgo que começou como um interesse, hoje faz parte do   meu dia-a-dia. 🚀</p>
 </div>
 
 <div align="center">
@@ -12,6 +12,7 @@
     <li>🔭 Atualmente estudando Desenvolvimento Fullstack na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
     <li>👾 Amo séries e livros de ficção e fantasia, e no meu tempo vago costumo jogar</li>
     <li>⚡ Fato aleatório: Team Cappuccino ☕ </li>
+    <li>⚡ Fato aleatório 2: Também sou fotógrafo profissional ☕ </li>
     <li>📫 Sinta-se a vontade para entrar em contato comigo por alguma das minhas redes sociais</li>
   </div>
 </div>
@@ -36,7 +37,7 @@
 <hr>
 <h4 align="center">Eu pela interwebs</h4>
 <div align=center>
-  <a href="https://www.linkedin.com/in/gabrielnerysilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=2331A8FF" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielnerysilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=31A8FF" target="_blank"></a> 
   <a href="https://instagram.com/gabe.nery" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23181717.svg?style=for-the-badge&logo=Instagram&logoColor=FF61F6" target="_blank"></a>
   <a href="https://twitter.com/gabrielnerys" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?style=for-the-badge&logo=Twitter&logoColor=231287B1" target="_blank"></a>
   <a href="https://gabrielnerys.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=react&logoColor=#white" target="_blank"></a>
