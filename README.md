@@ -37,10 +37,10 @@
 <hr>
 <h4 align="center">Eu pela interwebs</h4>
 <div align=center>
-  <a href="https://www.linkedin.com/in/gabrielnerysilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=31A8FF" target="_blank"></a> 
-  <a href="https://instagram.com/gabe.nery" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23181717.svg?style=for-the-badge&logo=Instagram&logoColor=FF61F6" target="_blank"></a>
-  <a href="https://twitter.com/gabrielnerys" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?style=for-the-badge&logo=Twitter&logoColor=231287B1" target="_blank"></a>
-  <a href="https://gabrielnerys.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=react&logoColor=#white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielnerysilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=31A8FF"></a> 
+  <a href="https://instagram.com/gabe.nery" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23181717.svg?style=for-the-badge&logo=Instagram&logoColor=FF61F6"></a>
+  <a href="https://twitter.com/gabrielnerys" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?style=for-the-badge&logo=Twitter&logoColor=231287B1"></a>
+  <a href="https://gabrielnerys.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=react&logoColor=#white"></a>
 </div>
 <hr>
 <h3 align="center">Profile Stats</h3>
@@ -54,8 +54,8 @@
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&theme=github_dark&hide_border=true">
 <br>
 <br>
-   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
-   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
+   <a href="https://github.com/gabrielnerys/trybe-exercicios" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
+   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
 </div>
 <br/>
 
