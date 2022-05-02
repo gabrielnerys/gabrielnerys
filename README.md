@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=A9A9A9&lines=Hii+%3AD;I'm+Gabriel%2C+but+call+me+Gabe.;Welcome+to+my+office!)](https://git.io/typing-svg)
 <div>
   <h4>Heeey! Como vai?</h4>
-  <p>Eu me chamo Gabriel, mas sinta-se a vontade caso queira me chamar de Gabe(ou Gabs). Sou Desenvolvedor Front-end Jr, atualmente morando no Rio de       Janeiro, onde nasci. Sou apaixonado por tecnologia desde novo, e meu primeiro contato com programação foi através da famosa plataforma de prototipagem   conhecida como Arduino, que tem sua linguagem baseada em C/C++. Hoje eu sinto orgulho por ver que algo que começou como um interesse, hoje faz parte do   meu dia-a-dia. 🚀</p>
+  <p>Eu me chamo Gabriel, mas sinta-se a vontade caso queira me chamar de Gabe(ou Gabs). Sou Desenvolvedor Front-end Jr, atualmente morando no Rio de       Janeiro, onde nasci. Sou apaixonado por tecnologia desde novo, e meu primeiro contato com programação foi através da famosa plataforma de prototipagem   conhecida como Arduino, que tem sua linguagem baseada em C/C++. E sinto orgulho por ver que algo que começou como um interesse, hoje faz parte do meu     dia-a-dia. 🚀</p>
 </div>
 
 <div align="center">
