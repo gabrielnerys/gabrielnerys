@@ -46,7 +46,7 @@
 <h3 align="center">Profile Stats</h3>
 <div align="center">
    <a href="https://github.com/gabrielnerys">
-   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielnerys&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=A9A9A9&dates=A9A9A9&fire=A9A9A9&ring=A9A9A9">
+   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielnerys&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=5B80CA&dates=5B80CA&fire=5B80CA&ring=5B80CA">
 <br>
 
 <br>
@@ -54,8 +54,8 @@
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&theme=github_dark&hide_border=true">
 <br>
 <br>
-   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=191970"></a>
-   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=30&border_color=191970"></a>
+   <a href="https://github.com/gabrielnerys/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
+   <a href="https://github.com/gabrielnerys/gabrielnerys.github.io" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=gabrielnerys.github.io&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
 </div>
 <br/>
 
