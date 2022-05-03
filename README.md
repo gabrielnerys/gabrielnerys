@@ -38,6 +38,7 @@
 <h4 align="center">Eu pela interwebs</h4>
 <div align=center>
   <a href="https://www.linkedin.com/in/gabrielnerysilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23181717.svg?style=for-the-badge&logo=linkedin&logoColor=31A8FF"></a> 
+  <a href="mailto:gabe.nery@live.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-%23181717?style=for-the-badge&logo=microsoft-outlook&logoColor=31A8FF"></a> 
   <a href="https://instagram.com/gabe.nery" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23181717.svg?style=for-the-badge&logo=Instagram&logoColor=FF61F6"></a>
   <a href="https://twitter.com/gabenerys" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?style=for-the-badge&logo=Twitter&logoColor=231287B1"></a>
   <a href="https://gabrielnerys.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=react&logoColor=#white"></a>
