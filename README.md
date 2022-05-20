@@ -4,8 +4,8 @@
   <p>Eu me chamo Gabriel, mas sinta-se a vontade caso queira me chamar de Gabe(ou Gabs). Sou Desenvolvedor Front-end Jr, atualmente morando no Rio de       Janeiro, onde nasci. Sou apaixonado por tecnologia desde novo, e meu primeiro contato com programação foi através da famosa plataforma de prototipagem conhecida como Arduino, que tem sua linguagem baseada em C/C++ e sinto orgulho por ver que algo que começou como um interesse, hoje faz parte do meu dia-a-dia. 🚀</p>
 </div>
 
-<div align="center">
-  <img height="200px" align="right" src="https://media.giphy.com/media/czhjZEvusosMuNcgzy/giphy.gif" />
+<div>
+  <img align="right" height="200px" src="https://media.giphy.com/media/czhjZEvusosMuNcgzy/giphy.gif" />
   <div align="left" style="display: inline_block">
     <h3><strong>Quer saber mais?</strong></h3>
     <h4><strong>Puxe a cadeira, vamos conversar :)</strong></h4>
