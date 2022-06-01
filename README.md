@@ -5,7 +5,7 @@
 </div>
 
 <div>
-<img src="https://media.giphy.com/media/czhjZEvusosMuNcgzy/giphy.gif" width="200px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/czhjZEvusosMuNcgzy/giphy.gif" width="500px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
     <h3><strong>Quer saber mais?</strong></h3>
     <h4><strong>Puxe a cadeira, vamos conversar :)</strong></h4>
