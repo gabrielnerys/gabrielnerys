@@ -53,8 +53,8 @@
 <br>
 
 <br>
-   <img width:"80px" src="https://github-readme-stats.vercel.app/api?username=gabrielnerys&show_icons=true&hide_border=true&theme=github_dark">
-   <img width:"80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&layout=compact&hide_border=true&theme=github_dark">   
+   <img src="https://github-readme-stats.vercel.app/api?username=gabrielnerys&show_icons=true&hide_border=true&theme=github_dark">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnerys&layout=compact&hide_border=true&theme=github_dark">   
 <br>
 <br>
    <a href="https://github.com/gabrielnerys/trybe-exercicios" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielnerys&repo=trybe-exercicios&theme=github_dark&border_radius=10&border_color=5B80CA"></a>
