@@ -5,11 +5,11 @@
 </div>
 
 <div>
-<img src="https://c.tenor.com/RXYcinC5s_AAAAAM/nodding-thumbs-up.gif" width="200px" align="right" alt="Computador">
+<img src="https://media3.giphy.com/media/czhjZEvusosMuNcgzy/giphy.gif" width="200px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
     <h3><strong>Quer saber mais?</strong></h3>
     <h4><strong>Puxe a cadeira, vamos conversar :)</strong></h4>
-    <li>🔭 Atualmente estudando Desenvolvimento Fullstack na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
+    <li>🔭 Sou Fullstack Developer formado pela <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
     <li>👾 Amo séries e livros de ficção e fantasia, e no meu tempo vago costumo jogar</li>
     <li>⚡ Fato aleatório: Team Cappuccino ☕ </li>
     <li>⚡ Fato aleatório 2: Também sou fotógrafo profissional 📷 </li>
